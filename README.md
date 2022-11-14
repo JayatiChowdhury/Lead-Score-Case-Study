@@ -9,6 +9,7 @@ The company markets its courses on several websites and search engines like Goog
  
 
 Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone. A typical lead conversion process can be represented using the following funnel:
+
 ![image](https://user-images.githubusercontent.com/97607450/201592957-06d2e02f-63d5-40ed-bc54-ea0d0a87ddcb.png)
 
 Lead Conversion Process - Demonstrated as a funnel
